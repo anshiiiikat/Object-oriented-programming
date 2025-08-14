@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+class Student{
+    public:
+    string name;
+    string branch;
+    string subject;
+    string result;
+    
+};
+int main() {
+    Student Anshika;
+    Anshika.name="anshika";
+    Anshika.branch="E&TC";
+    Anshika.subject="C++";
+    Anshika.result="7.96";
+    cout<<Anshika.name<<endl;
+    cout<<Anshika.branch<<endl;
+    cout<<Anshika.subject<<endl;
+    cout<<Anshika.result<<endl;
+    
+
+    return 0;
+}
+
+
+\\output
+anshika
+E&TC
+C++
+7.96
