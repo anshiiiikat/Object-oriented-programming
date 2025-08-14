@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+class Reactangle{
+    public:
+    float lenght;
+    float width;
+};
+
+int main() {
+   Reactangle r1;
+   cout<<"Enter lenght:";
+   cin>>r1.lenght;
+   cout<<"Enter width:";
+   cin>>r1.width;
+   int area=r1.lenght*r1.width;
+   if(r1.lenght==r1.width){
+       cout<<"This is square";
+   }
+   else {
+       cout<<"This is reactangle"<<"\n";
+       
+   cout<<"Area:"<<" "<<area;
+   }
+   
+   
+    return 0;
+} 
+
+
+\\output
+Enter lenght:7
+Enter width:9
+This is reactangle
+Area: 63
