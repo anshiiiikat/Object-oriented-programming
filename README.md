@@ -16,7 +16,7 @@ Object-Oriented Programming (OOP): A programming paradigm where programs are des
 
 Definition: A class is a user-defined blueprint that represents real-world entities by combining data members (variables) and member functions (methods).
 
-Key Features:
+###### Key Features:
 
 1.Provides data hiding and security.
 
@@ -28,23 +28,23 @@ Key Features:
 
 Definition: An instance of a class that represents a specific entity in the program.
 
-🔹 Methods (Member Functions)
+###### Methods (Member Functions)
 
 Definition: Functions declared inside a class that define the behavior of objects.
 
-Types:
+###### Types:
 
 1.Inside Class Definition: Defined directly inside the class body.
 
 2.Outside Class Definition: Declared inside class but defined outside using scope resolution ::.
 
-Special Methods:
+###### Special Methods:
 
 1.Constructor: Special method used to automatically initialize objects at the time of creation.
 
 2.Destructor: Special method used to clean up and release resources when an object goes out of scope.
 
-Additional Features:
+###### Additional Features:
 
 1.Methods can be overloaded (same name, different parameters).
 
