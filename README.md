@@ -10,7 +10,7 @@ Visual Studio Code
 
 Object-Oriented Programming (OOP): A programming paradigm where programs are designed using objects that combine data and behavior.
 
-Purpose: To improve modularity, reusability, and maintainability of code.
+##### Purpose: To improve modularity, reusability, and maintainability of code.
 
 ### Class
 
@@ -18,11 +18,11 @@ Definition: A class is a user-defined blueprint that represents real-world entit
 
 Key Features:
 
-Provides data hiding and security.
+1.Provides data hiding and security.
 
-Uses access specifiers → private, public, protected.
+2.Uses access specifiers → private, public, protected.
 
-Memory is allocated only when objects are created.
+3.Memory is allocated only when objects are created.
 
 ### Object
 
@@ -34,44 +34,42 @@ Definition: Functions declared inside a class that define the behavior of object
 
 Types:
 
-Inside Class Definition: Defined directly inside the class body.
+1.Inside Class Definition: Defined directly inside the class body.
 
-Outside Class Definition: Declared inside class but defined outside using scope resolution ::.
+2.Outside Class Definition: Declared inside class but defined outside using scope resolution ::.
 
 Special Methods:
 
-Constructor: Special method used to automatically initialize objects at the time of creation.
+1.Constructor: Special method used to automatically initialize objects at the time of creation.
 
-Destructor: Special method used to clean up and release resources when an object goes out of scope.
+2.Destructor: Special method used to clean up and release resources when an object goes out of scope.
 
 Additional Features:
 
-Methods can be overloaded (same name, different parameters).
+1.Methods can be overloaded (same name, different parameters).
 
-Methods can be static (shared by all objects).
+2.Methods can be static (shared by all objects).
 
-Methods can be declared as const (do not modify object data).
+3.Methods can be declared as const (do not modify object data).
 
 ### Core OOP Concepts (One-Line Definitions)
 
-Encapsulation: Binding of data and methods together in a single unit (class).
+1.Encapsulation: Binding of data and methods together in a single unit (class).
 
-Abstraction: Displaying only essential details while hiding the background implementation.
+2.Abstraction: Displaying only essential details while hiding the background implementation.
 
-Inheritance: Mechanism by which a new class (derived) acquires properties of an existing class (base).
+3.Inheritance: Mechanism by which a new class (derived) acquires properties of an existing class (base).
 
-Polymorphism: Ability of a function, operator, or method to exist in multiple forms.
+4.Polymorphism: Ability of a function, operator, or method to exist in multiple forms.
 
-Dynamic Binding: Process of linking a function call with its definition at runtime.
+5.Dynamic Binding: Process of linking a function call with its definition at runtime.
 
-Message Passing: Interaction between objects through function/method calls.
+6.Message Passing: Interaction between objects through function/method calls.
 
-Friend Function: A non-member function that is allowed access to private/protected members of a class.
+7.Friend Function: A non-member function that is allowed access to private/protected members of a class.
 
-Operator Overloading: Redefining operators to perform operations on user-defined types.
-Perfect Anshika 👌 You’ve written **algorithms in step-by-step form**. I’ll now **add proper numbering** to each algorithm and make it **exam-ready** with a neat structure.
+8.Operator Overloading: Redefining operators to perform operations on user-defined types.
 
----
 
 #  Algorithms – OOPs (Classes, Objects, Methods in C++)
 
@@ -136,7 +134,7 @@ Perfect Anshika 👌 You’ve written **algorithms in step-by-step form**. I’l
 
 ---
 
-### **5. Conclusion**
+###  Conclusion
 
 * We learned the basics of **OOP concepts** in C++.
 * Understood **classes, objects, data members, and class methods**.
